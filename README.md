@@ -1,10 +1,10 @@
 # Hello, I'm Davi Ferreira 👋
 
-- 🎓 Systems Development student and technology enthusiast
+🎓 Systems Development student and technology enthusiast
 
-- 💻 Currently, I'm enhancing my programming skills, focusing on **front-end** development using **HTML**, **CSS**, and **PHP**, which are my main areas of interest for the future.
+💻 Currently, I'm enhancing my programming skills, focusing on **front-end** development using **HTML**, **CSS**, and **PHP**, which are my main areas of interest for the future.
 
-- 🚀 Always striving to learn and grow.
+🚀 Always striving to learn and grow.
 
 - 🔗 Let's exchange ideas about technology and collaborate? Find me on social networks:
 
