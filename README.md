@@ -9,7 +9,6 @@
 - 🔗 Let's exchange ideas about technology and collaborate? Find me on social networks:
 
 - [LinkedIn](https://www.linkedin.com/in/davi-ferreira-dev/)
-- [My GitHub](https://github.com/davi-dev)
 - [Gmail](mailto:fdavi07@gmail.com)
 
 - 🔧 Technologies and tools I'm using:
