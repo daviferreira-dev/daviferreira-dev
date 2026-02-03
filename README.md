@@ -14,7 +14,7 @@
 - 🔧 Technologies and tools I'm using:
 - Languages: HTML, CSS e PHP
 - Tools: Visual Studio Code, WampServer, Apache
-- Databases: MySQL
+- Databases: MySQL, MariaDB and Supabase
 
 - 🌱 Currently learning more about **RESTful API development**.
 
