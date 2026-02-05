@@ -33,7 +33,7 @@ I am a results-oriented **Junior Full Stack Developer** with 2 years of practica
 ### 📫 Connect with me:
 - **LinkedIn:** [davi-ferreira-dev](https://www.linkedin.com/in/davi-ferreira-dev/)
 - **Gmail:** [fdavi07@gmail.com](mailto:fdavi07@gmail.com)
-- **Portfolio:** *[Link your portfolio here once it's live!]*
+- **Portfolio:** *PortfolioDaviFerreira.github.io*
 
 ---
 
