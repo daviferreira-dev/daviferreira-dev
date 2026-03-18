@@ -17,8 +17,8 @@ I am a results-oriented **Junior Full Stack Developer** with 2 years of practica
 | :--- | :--- |
 | **Frontend** | `React`, `TypeScript`, `JavaScript (ES6+)`, `React Flow`, `HTML5/CSS3` |
 | **Mobile** | `React Native` |
-| **Backend** | `Node.js`, `PHP`, `Laravel` |
-| **Database** | `MySQL`, `MariaDB`, `Supabase` |
+| **Backend** | `Node.js`, `PHP`, `Laravel`,`Python`  |
+| **Database** | `MySQL`, `MongoDB`, `Supabase` |
 | **DevOps & Tools** | `Git`, `GitHub`, `Docker`, `VScode`, `WampServer` |
 
 ---
