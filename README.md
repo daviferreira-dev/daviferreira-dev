@@ -37,8 +37,4 @@ I am a results-oriented **Junior Full Stack Developer** with 2 years of practica
 
 ---
 
-### 📊 My GitHub Stats
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=radical)
-
 > "Turning ideas into code and problems into functional solutions."
