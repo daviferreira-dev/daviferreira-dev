@@ -50,6 +50,19 @@ Minha base em tecnologia vem de anos de desafios lógicos e competições nacion
 
 ---
 
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviferreira-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviferreira-dev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviferreira-dev&theme=dracula" alt="GitHub Streak" />
+</div>
+
+---
+
 ### 📫 Vamos conversar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-ferreira-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fdavi07@gmail.com)
