@@ -16,7 +16,7 @@ Sou um **Desenvolvedor Full Stack Júnior** focado em transformar lógica de neg
 ### 🏆 Conquistas & Background STEM
 Minha base em tecnologia vem de anos de desafios lógicos e competições nacionais:
 - **TBR (Torneio Brasil de Robótica):** Atuei como **Avaliador da Etapa Prática**, analisando lógica e hardware de equipes competidoras.
-- **FIRST Robotics:** Mentor e Competidor, aplicando conceitos de automação e trabalho em equipe.
+- **FIRST Lego League:** Mentor e Competidor, aplicando conceitos de automação e trabalho em equipe.
 - **MOBFOG/OBA:** Medalhista na Mostra Brasileira de Foguetes (Física Aplicada).
 - **OBR 2023:** Participante da modalidade prática presencial (Robótica Móvel).
 
