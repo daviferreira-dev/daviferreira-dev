@@ -19,6 +19,7 @@ Minha base em tecnologia vem de anos de desafios lógicos e competições nacion
 - **FIRST Lego League:** Mentor e Competidor, aplicando conceitos de automação e trabalho em equipe.
 - **MOBFOG/OBA:** Medalhista na Mostra Brasileira de Foguetes (Física Aplicada).
 - **OBR 2023:** Participante da modalidade prática presencial (Robótica Móvel).
+- **4° Science Hackathon by TMB:** 3° Colocado.
 
 ---
 
