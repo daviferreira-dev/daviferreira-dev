@@ -67,7 +67,6 @@ Minha base analítica foi forjada em desafios práticos e competições nacionai
 Atualmente, estou direcionando meus estudos práticos e desenvolvimento profissional para:
 - 🛰️ **System Design & Arquitetura:** Evoluindo de aplicações monolíticas para integrações robustas e microsserviços.
 - 🧠 **Engenharia de IA:** Aprofundando a integração de LLMs (como o Gemini) para criar aplicações "AI-first".
-- 🤝 **Liderança Técnica:** Refinando a capacidade de guiar escolhas arquiteturais e mentorar outros desenvolvedores.
 
 ---
 
