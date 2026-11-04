@@ -1,8 +1,8 @@
 <!-- ========================= BANNER ========================= -->
 <div align="center">
-  <a href="https://github.com/daviferreira-dev"><img src="assets/banner.svg" width="100%" alt="Davi Ferreira — Full Stack Developer | Criador de Produtos Digitais | STEM Background" /></a>
+  <a href="https://github.com/daviferreira-dev"><img src="assets/banner.svg" width="100%" alt="Davi Ferreira — Full Stack Developer | Estagiário em Suporte Técnico na SoluCX | React, TypeScript, PHP e Python" /></a>
 
-  <a href="https://github.com/daviferreira-dev"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=800&height=40&lines=%3E+Full+Stack+Developer;%3E+Criador+de+Produtos+Digitais;%3E+STEM+Background" alt="Digitando..." /></a>
+  <a href="https://github.com/daviferreira-dev"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=800&height=40&lines=%3E+Full+Stack+Developer;%3E+Estagi%C3%A1rio+em+Suporte+T%C3%A9cnico+na+SoluCX;%3E+Criador+de+Produtos+Digitais;%3E+STEM+Background" alt="Digitando..." /></a>
 
   <a href="https://www.linkedin.com/in/davi-ferreira-dev/"><img src="assets/btn-linkedin.svg" height="30" alt="LinkedIn" /></a>
   <a href="mailto:fdavi07@gmail.com"><img src="assets/btn-email.svg" height="30" alt="E-mail" /></a>
@@ -39,13 +39,8 @@
 <img src="assets/mapa.svg" width="100%" alt="Mapa da jornada: Robótica STEM, Técnico em ADS no SENAI, Jovem Aprendiz de TI, Estágio na SoluCX (atual), System Design e Engenharia de IA" />
 
 <!-- ========================= REGISTRO DE AVENTURA ========================= -->
-<img src="assets/registro.svg" width="100%" alt="Registro de aventura" />
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daviferreira-dev&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviferreira-dev&layout=compact&langs_count=7&locale=pt-br&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" alt="Linguagens mais usadas" />
-  <img src="https://streak-stats.demolab.com/?user=daviferreira-dev&locale=pt_BR&hide_border=true&background=000000&stroke=555555&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=777777" alt="Sequência de contribuições" />
-</div>
+<!-- Gerado automaticamente todo dia pelo GitHub Actions (stats.py) -->
+<img src="assets/registro.svg" width="100%" alt="Registro de aventura: contribuições, commits, sequência, linguagens mais usadas e mapa de contribuições do GitHub" />
 
 <br/>
 
