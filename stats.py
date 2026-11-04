@@ -62,7 +62,7 @@ def registro(u):
     langs = {}
     for r in repos["nodes"]:
         for e in r["languages"]["edges"]:
-            langs[e["node"]["name"]] = langs.get(e["node"]["name"], 0) + e["size"]
+            if e["node"]["name"] in ("Jupyter Notebook",): continue             langs[e["node"]["name"]] = langs.get(e["node"]["name"], 0) + e["size"]
     total = sum(langs.values()) or 1
     top = sorted(langs.items(), key=lambda kv: -kv[1])[:6]
 
