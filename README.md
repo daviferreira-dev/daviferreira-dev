@@ -6,30 +6,37 @@
 
   <a href="https://www.linkedin.com/in/davi-ferreira-dev/"><img src="assets/btn-linkedin.svg" height="30" alt="LinkedIn" /></a>
   <a href="mailto:fdavi07@gmail.com"><img src="assets/btn-email.svg" height="30" alt="E-mail" /></a>
+  <img src="assets/btn-local.svg" height="30" alt="Taubaté, SP" />
 </div>
 
 <br/>
 
 <!-- ========================= SOBRE MIM ========================= -->
-<img src="assets/sobre-mim.svg" width="100%" alt="Sobre mim: Davi Ferreira, desenvolvedor full stack que começou em competições de robótica, com 2 anos de vivência prática em TI como Jovem Aprendiz" />
+<img src="assets/sobre-mim.svg" width="100%" alt="Sobre mim: Davi Ferreira, desenvolvedor full stack que começou em competições de robótica, foi Jovem Aprendiz de TI por 2 anos, hoje é estagiário em Suporte Técnico na SoluCX e cursa ADS no SENAI São Paulo" />
 
 <!-- ========================= FICHA ========================= -->
-<img src="assets/ficha.svg" width="100%" alt="Ficha do personagem: Full Stack Developer, Criador de Produtos Digitais, origem STEM, 2 anos em TI" />
+<img src="assets/ficha.svg" width="100%" alt="Ficha do personagem: Desenvolvedor Full Stack, Criador de Produtos Digitais, estagiário na SoluCX, ADS no SENAI SP, Taubaté SP, origem STEM" />
 
 <!-- ========================= HABILIDADES ========================= -->
 <img src="assets/habilidades.svg" width="100%" alt="Habilidades especiais: visão de produto, troubleshooting e mentalidade de engenharia" />
 
 <!-- ========================= INVENTÁRIO ========================= -->
-<img src="assets/inventario.svg" width="100%" alt="Inventário: React, TypeScript, React Flow, Tailwind CSS, React Native, Node.js, PHP, Laravel, Python, MySQL, MongoDB, Supabase, Docker, Firebase, Git, GitHub, Scrum, Kanban" />
+<img src="assets/inventario.svg" width="100%" alt="Inventário: React, TypeScript, JavaScript, React Flow, Tailwind CSS, React Native, Framer Motion, HTML5/CSS3, Node.js, PHP, Laravel, Python, API REST, MySQL, MongoDB, Supabase, Docker, Firebase, AWS, Linux, Machine Learning, Power BI, Gemini, Arduino, C++, Redes, Git, GitHub, Vitest, Scrum, Kanban" />
 
 <!-- ========================= MISSÃO PRINCIPAL ========================= -->
 <a href="[LINK DO REPOSITÓRIO DO AUTO ABOUT]"><img src="assets/missao.svg" width="100%" alt="Missão principal: Auto About, motor de automação no-code com WhatsApp e IA, feito com React Flow, Node.js e API do Gemini" /></a>
 
+<!-- ========================= DIÁRIO DE MISSÕES ========================= -->
+<img src="assets/missoes.svg" width="100%" alt="Diário de missões: Kash (controle financeiro), modelo de risco de FPD no Science Hackathon by TMB, workshop de monitoramento de preços na web e site interativo sobre a norma ISA-101" />
+
 <!-- ========================= CONQUISTAS ========================= -->
-<img src="assets/conquistas.svg" width="100%" alt="Conquistas: TBR, FIRST LEGO League, OBR 2023, MOBFOG/OBA e 4º Science Hackathon by TMB" />
+<img src="assets/conquistas.svg" width="100%" alt="Conquistas: TBR, FIRST LEGO League, OBR 2023, bronze na MOBFOG, 3º lugar no Science Hackathon by TMB, 2º lugar no workshop do SENAI Taubaté e Grand Prix SENAI de Inovação" />
+
+<!-- ========================= CERTIFICADOS ========================= -->
+<img src="assets/certificados.svg" width="100%" alt="Certificados: Gemini Academy, AWS Academy Cloud Foundations, Cisco JavaScript Essentials, Introduction to Modern AI, Data Analytics Essentials, Linux Unhatched, Google Load Balancing, CCNA v7, Python, Power BI, Arduino e Pacote Office" />
 
 <!-- ========================= MAPA ========================= -->
-<img src="assets/mapa.svg" width="100%" alt="Mapa da jornada: Robótica STEM, Jovem Aprendiz TI, Full Stack (atual), System Design e Engenharia de IA" />
+<img src="assets/mapa.svg" width="100%" alt="Mapa da jornada: Robótica STEM, Técnico em ADS no SENAI, Jovem Aprendiz de TI, Estágio na SoluCX (atual), System Design e Engenharia de IA" />
 
 <!-- ========================= REGISTRO DE AVENTURA ========================= -->
 <img src="assets/registro.svg" width="100%" alt="Registro de aventura" />
@@ -44,7 +51,7 @@
 
 <!-- ========================= CONTINUE ========================= -->
 <div align="center">
-  <img src="assets/continue.svg" width="100%" alt="Continue? Vamos construir algo juntos?" />
+  <img src="assets/continue.svg" width="100%" alt="Continue? Vamos construir algo juntos? Buscando oportunidades como Desenvolvedor Júnior" />
 
   <a href="https://www.linkedin.com/in/davi-ferreira-dev/"><img src="assets/btn-linkedin.svg" height="30" alt="LinkedIn" /></a>
   <a href="mailto:fdavi07@gmail.com"><img src="assets/btn-email.svg" height="30" alt="E-mail" /></a>
