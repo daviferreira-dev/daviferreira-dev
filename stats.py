@@ -62,7 +62,9 @@ def registro(u):
     langs = {}
     for r in repos["nodes"]:
         for e in r["languages"]["edges"]:
-            if e["node"]["name"] in ("Jupyter Notebook",): continue             langs[e["node"]["name"]] = langs.get(e["node"]["name"], 0) + e["size"]
+            if e["node"]["name"] in ("Jupyter Notebook",):
+                continue
+            langs[e["node"]["name"]] = langs.get(e["node"]["name"], 0) + e["size"]
     total = sum(langs.values()) or 1
     top = sorted(langs.items(), key=lambda kv: -kv[1])[:6]
 
@@ -140,7 +142,7 @@ def registro(u):
 
     h = y3 + h3
     save("registro.svg", svg(h, "".join(b), "".join(css),
-                             f"Registro de aventura: {cal['totalContributions']} contribuições no último ano, sequência atual de {cur} dias"))
+                             f"Registro de aventura: {cal['totalContributions']} contribuições no último ano, sequência atual de {cur} {'dia' if cur == 1 else 'dias'}"))
 
 
 if __name__ == "__main__":
