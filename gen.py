@@ -231,7 +231,7 @@ def banner():
              f'{ptext("OLÁ!", 152, 46, 2)}<rect x="210" y="48" width="12" height="10" fill="#fff" class="blink"/></g>')
     # título
     cx = 500
-    b.append(ptext("PLAYER 1 · LV 2", cx, 30, 2, fill="#aaa", anchor="middle"))
+    b.append(ptext("PLAYER 1 · ESTÁGIO NA SOLUCX", cx, 30, 2, fill="#aaa", anchor="middle"))
     name = "DAVI FERREIRA"
     b.append(ptext(name, cx, 64, 5, anchor="middle", per_char_cls=lambda i: f"ch c{i}"))
     css += [f".c{i}{{animation-delay:{.15 + i * .08:.2f}s}}" for i in range(len(name))]
@@ -654,6 +654,6 @@ def registro_titulo():
 
 
 if __name__ == "__main__":
-    for f in (registro_titulo, banner, buttons, sobre, ficha, habilidades, inventario, missao, missoes, conquistas, certificados, mapa, cont, rodape):
+    for f in (banner, buttons, sobre, ficha, habilidades, inventario, missao, missoes, conquistas, certificados, mapa, cont, rodape):
         f()
     print("ok:", sorted(os.listdir(OUT)))
