@@ -1,93 +1,105 @@
-# Olá, eu sou o Davi Ferreira 👋
+<!-- ========================= BANNER ========================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=200&section=header&text=Davi%20Ferreira&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Davi Ferreira — Full Stack Developer" />
 
-### Full Stack Developer | Criador de Produtos Digitais | STEM Background
+  <a href="https://github.com/daviferreira-dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1200&color=8B8B8B&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer;Criador+de+Produtos+Digitais;STEM+Background" alt="Full Stack Developer | Criador de Produtos Digitais | STEM Background" /></a>
 
-Minha jornada na tecnologia não começou apenas digitando código em uma tela, mas projetando lógicas complexas em competições de robótica. Hoje, aplico esse mesmo pensamento sistêmico e capacidade de resolução de problemas no desenvolvimento de software full stack. 
+  <br/>
 
-Com 2 anos de vivência prática em TI (como Jovem Aprendiz), desenvolvi uma visão holística que vai desde a infraestrutura até a experiência final do usuário, unindo suporte, arquitetura e desenvolvimento de produto.
+  <a href="https://www.linkedin.com/in/davi-ferreira-dev/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fdavi07@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <!-- Opcional: troque SUA_CIDADE pela sua cidade (use %20 no lugar de espaços) -->
+  <img src="https://img.shields.io/badge/SUA_CIDADE-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="[SUA CIDADE]" />
+</div>
 
----
+<br/>
 
-### 💡 Por que trabalhar comigo?
+## 👋 Sobre mim
 
-- **Visão de Produto:** Não escrevo apenas código; eu traduzo regras de negócios complexas em interfaces acessíveis e eficientes.
-- **Resolução de Problemas (Troubleshooting):** Anos de competições STEM e robótica me treinaram para debugar sistemas sob pressão e encontrar soluções otimizadas.
-- **Mentalidade de Engenharia:** Entendo a stack inteira. Seja projetando um banco de dados relacional ou construindo um frontend reativo, foco em performance e manutenibilidade.
+Olá, eu sou o **Davi Ferreira**! Minha jornada na tecnologia não começou apenas digitando código em uma tela, mas projetando lógicas complexas em **competições de robótica**. Hoje, aplico esse mesmo pensamento sistêmico e capacidade de resolução de problemas no **desenvolvimento de software full stack**.
 
----
+Com **2 anos de vivência prática em TI** (como Jovem Aprendiz), desenvolvi uma visão holística que vai da infraestrutura à experiência final do usuário, unindo suporte, arquitetura e desenvolvimento de produto.
 
-### 🚀 Destaque de Engenharia: Auto About
+- 💡 **Visão de Produto:** não escrevo apenas código; traduzo regras de negócio complexas em interfaces acessíveis e eficientes.
+- 🔧 **Resolução de Problemas (Troubleshooting):** anos de competições STEM e robótica me treinaram para debugar sistemas sob pressão e encontrar soluções otimizadas.
+- ⚙️ **Mentalidade de Engenharia:** entendo a stack inteira. Seja projetando um banco de dados relacional ou construindo um frontend reativo, foco em performance e manutenibilidade.
 
-**Motor de Automação No-Code (WhatsApp + AI)**
-Atuei como líder de desenvolvimento na criação de uma plataforma visual para construção de fluxos de conversação, integrando inteligência artificial.
-
-- **O Desafio Técnico:** Desenvolver uma interface onde usuários sem conhecimento técnico pudessem orquestrar automações de alta complexidade.
-- **A Solução:** Projetei e implementei uma interface *drag-and-drop* fluida utilizando **React Flow**. No backend, construí um motor em **Node.js** capaz de ler e processar os nós visuais, traduzindo-os em árvores de decisão executáveis. O projeto também integra a **API do Gemini** para respostas dinâmicas.
-- **Impacto:** Redução drástica na curva de aprendizado para criação de bots, democratizando o acesso à automação inteligente.
-
----
-
-### 💻 Tech Stack & Especialidades
+## 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,php,laravel,python,mysql,mongodb,supabase,firebase,docker,git,github&theme=dark&perline=8" alt="Tecnologias" />
 </div>
-<br>
 
-| Domínio | Tecnologias Principais | Contexto de Uso |
+<br/>
+
+| Domínio | Tecnologias principais | Contexto de uso |
 | :--- | :--- | :--- |
-| **Frontend & Mobile** | `React`, `TypeScript`, `React Flow`, `Tailwind CSS`, `React Native` | Criação de SPAs dinâmicas, interfaces baseadas em grafos e aplicações multiplataforma. |
-| **Backend & APIs** | `Node.js`, `PHP`, `Laravel`, `Python` | Arquitetura de APIs RESTful, processamento assíncrono e regras de negócio. |
-| **Dados & Infraestrutura** | `MySQL`, `MongoDB`, `Supabase`, `Docker`, `Firebase` | Modelagem de dados relacionais/não-relacionais, conteinerização e deploy ágil. |
-| **Workflow** | `Git`, `GitHub`, `Scrum`, `Kanban` | Versionamento de código rigoroso e entregas iterativas alinhadas ao produto. |
+| **Frontend & Mobile** | `React` · `TypeScript` · `React Flow` · `Tailwind CSS` · `React Native` | SPAs dinâmicas, interfaces baseadas em grafos e aplicações multiplataforma |
+| **Backend & APIs** | `Node.js` · `PHP` · `Laravel` · `Python` | APIs RESTful, processamento assíncrono e regras de negócio |
+| **Dados & Infraestrutura** | `MySQL` · `MongoDB` · `Supabase` · `Docker` · `Firebase` | Modelagem relacional e não relacional, conteinerização e deploy ágil |
+| **Workflow** | `Git` · `GitHub` · `Scrum` · `Kanban` | Versionamento rigoroso e entregas iterativas alinhadas ao produto |
 
----
+## 🚀 Projetos em destaque
 
-### 🏆 O Diferencial STEM: Lógica e Reconhecimento
+### Auto About — Motor de Automação No-Code (WhatsApp + IA)
 
-Minha base analítica foi forjada em desafios práticos e competições nacionais de alto nível, onde a teoria encontra a execução:
+> Líder de desenvolvimento · `React Flow` · `Node.js` · `API do Gemini`
 
-- **TBR (Torneio Brasil de Robótica):** *Avaliador da Etapa Prática* — Responsável por auditar lógicas de programação e montagem de hardware das equipes competidoras.
-- **FIRST Lego League:** *Mentor e Competidor* — Liderança de equipes, estratégia de arena e aplicação de algoritmos de automação física.
-- **OBR 2023 (Olimpíada Brasileira de Robótica):** *Competidor (Modalidade Prática Presencial)* — Navegação autônoma e resolução algorítmica de labirintos.
-- **MOBFOG/OBA:** *Medalhista* — Aplicação de cálculo, aerodinâmica e física na Mostra Brasileira de Foguetes.
-- **4° Science Hackathon by TMB:** *3º Colocado* — Prototipação rápida, trabalho em equipe sob pressão e ideação de produto tecnológico.
+Plataforma visual para construção de fluxos de conversação, integrando inteligência artificial.
 
----
+- **Desafio:** criar uma interface em que usuários sem conhecimento técnico pudessem orquestrar automações de alta complexidade.
+- **Solução:** interface *drag-and-drop* fluida com **React Flow** e um motor em **Node.js** que lê e processa os nós visuais, traduzindo-os em árvores de decisão executáveis. A **API do Gemini** gera respostas dinâmicas.
+- **Impacto:** redução drástica na curva de aprendizado para criação de bots, democratizando o acesso à automação inteligente.
 
-### 🌱 Visão de Futuro e Crescimento
+🔗 [Repositório]([LINK DO REPOSITÓRIO]) · [Demo]([LINK DA DEMO])
 
-Atualmente, estou direcionando meus estudos práticos e desenvolvimento profissional para:
-- 🛰️ **System Design & Arquitetura:** Evoluindo de aplicações monolíticas para integrações robustas e microsserviços.
-- 🧠 **Engenharia de IA:** Aprofundando a integração de LLMs (como o Gemini) para criar aplicações "AI-first".
+<!-- Adicione outros projetos seguindo o mesmo formato:
+### [NOME DO PROJETO] — [DESCRIÇÃO CURTA]
+> [SEU PAPEL] · `[TECNOLOGIA]` · `[TECNOLOGIA]`
+[O QUE O PROJETO FAZ E QUAL PROBLEMA RESOLVE]
+🔗 [Repositório]([LINK])
+-->
 
----
+## 🏆 Diferencial STEM: lógica e reconhecimento
 
-### 📈 Produtividade e Impacto no GitHub
+Minha base analítica foi forjada em desafios práticos e competições nacionais, onde a teoria encontra a execução:
+
+| Competição | Papel | Destaque |
+| :--- | :--- | :--- |
+| **TBR** (Torneio Brasil de Robótica) | Avaliador da Etapa Prática | Auditoria de lógicas de programação e montagem de hardware das equipes |
+| **FIRST LEGO League** | Mentor e Competidor | Liderança de equipes, estratégia de arena e algoritmos de automação física |
+| **OBR 2023** (Olimpíada Brasileira de Robótica) | Competidor (Prática Presencial) | Navegação autônoma e resolução algorítmica de labirintos |
+| **MOBFOG / OBA** | 🏅 Medalhista | Cálculo, aerodinâmica e física na Mostra Brasileira de Foguetes |
+| **4º Science Hackathon by TMB** | 🥉 3º Colocado | Prototipação rápida, trabalho em equipe sob pressão e ideação de produto |
+
+## 🌱 Próximos passos
+
+- 🛰️ **System Design & Arquitetura:** evoluindo de aplicações monolíticas para integrações robustas e microsserviços.
+- 🧠 **Engenharia de IA:** aprofundando a integração de LLMs (como o Gemini) para criar aplicações *AI-first*.
+
+## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviferreira-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviferreira-dev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=daviferreira-dev&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviferreira-dev&layout=compact&langs_count=7&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviferreira-dev&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=daviferreira-dev&locale=pt_BR&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b8b" alt="Sequência de contribuições" />
 </div>
 
----
+## 📫 Vamos construir algo juntos?
 
-### 📫 Vamos construir algo juntos?
+Seja para discutir arquitetura de software, automação ou uma nova oportunidade profissional, minha caixa de entrada está aberta.
 
-Seja para discutir arquitetura de software, automação, ou uma nova oportunidade profissional, minha caixa de entrada está aberta.
+<div align="center">
+  <a href="https://www.linkedin.com/in/davi-ferreira-dev/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fdavi07@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-ferreira-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fdavi07@gmail.com)
+  <br/><br/>
 
-> *"Engenharia de software não é apenas sobre escrever código, é sobre traduzir problemas complexos em soluções elegantes."*
+  <i>"Engenharia de software não é apenas sobre escrever código, é sobre traduzir problemas complexos em soluções elegantes."</i>
+</div>
+
+<!-- ========================= RODAPÉ ========================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer" width="100%" alt="" />
